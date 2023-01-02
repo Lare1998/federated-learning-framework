@@ -74,3 +74,5 @@ if __name__ == "__main__":
     trained_info = client.train(epochs=2)
     print(f"\nWeights after training for client {client.client_id}:")
     # print(trained_info["weights"])
+
+# Update on 2023-01-02 00:00:00
