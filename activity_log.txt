@@ -29,3 +29,6 @@ Activity on 2023-01-25 00:00:00 - docs: Create architectural overview
 Activity on 2023-01-25 00:00:00 - docs: Create quick start guide
 Activity on 2023-01-25 00:00:00 - build: Update compiler flags
 Activity on 2023-01-26 00:00:00 - feat: Add search functionality
+Activity on 2023-01-27 00:00:00 - build: Set up pre-commit hooks
+Activity on 2023-01-27 00:00:00 - chore: Configure environment variables
+Activity on 2023-01-27 00:00:00 - style: Remove redundant comments
