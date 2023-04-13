@@ -116,3 +116,5 @@ Activity on 2023-04-11 00:00:00 - test: Mock external API calls in tests
 Activity on 2023-04-11 00:00:00 - style: Consistent variable naming
 Activity on 2023-04-12 00:00:00 - test: Use fixtures for test data
 Activity on 2023-04-12 00:00:00 - refactor: Simplify conditional statements
+Activity on 2023-04-13 00:00:00 - refactor: Use context managers
+Activity on 2023-04-13 00:00:00 - docs: Add FAQ section
