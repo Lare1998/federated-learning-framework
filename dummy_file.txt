@@ -3702,3 +3702,5 @@ Commit 220 on 2023-05-08 00:00:00 - style: Consistent variable naming
 Commit 221 on 2023-05-09 00:00:00 - build: Automate documentation generation
 Commit 222 on 2023-05-09 00:00:00 - chore: Automate release process
 Commit 223 on 2023-05-09 00:00:00 - refactor: Decouple modules for better maintainability
+Commit 224 on 2023-05-12 00:00:00 - chore: Update license information
+Commit 225 on 2023-05-12 00:00:00 - fix: Handle null pointer exceptions
