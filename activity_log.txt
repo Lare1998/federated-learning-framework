@@ -165,3 +165,5 @@ Activity on 2023-05-15 00:00:00 - style: Format code according to PEP8 guideline
 Activity on 2023-05-15 00:00:00 - test: Test database transactions
 Activity on 2023-05-17 00:00:00 - style: Use type hints
 Activity on 2023-05-17 00:00:00 - chore: Upgrade Python version
+Activity on 2023-05-18 00:00:00 - style: Standardize error messages
+Activity on 2023-05-18 00:00:00 - refactor: Use dependency injection
