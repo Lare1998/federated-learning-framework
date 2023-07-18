@@ -3339,3 +3339,6 @@ Commit 121 on 2023-07-12 12:37:51 - ci: Add vulnerability scanning
 Commit 122 on 2023-07-12 12:37:51 - style: Format code according to PEP8 guidelines
 Commit 123 on 2023-07-12 12:37:51 - refactor: Improve code readability and structure
 Commit 124 on 2023-07-14 12:37:51 - build: Update compiler flags
+Commit 125 on 2023-07-17 12:37:51 - chore: Automate release process
+Commit 126 on 2023-07-17 12:37:51 - chore: Upgrade Python version
+Commit 127 on 2023-07-17 12:37:51 - refactor: Simplify conditional statements
