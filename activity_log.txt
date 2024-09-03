@@ -752,3 +752,5 @@ Activity on 2024-08-29 00:00:00 - chore: Bump version number
 Activity on 2024-08-29 00:00:00 - ci: Add linting to pre-commit hooks
 Activity on 2024-08-30 00:00:00 - build: Update compiler flags
 Activity on 2024-09-02 00:00:00 - docs: Add usage examples
+Activity on 2024-09-03 00:00:00 - test: Parameterize test cases
+Activity on 2024-09-03 00:00:00 - chore: Update copyright year
